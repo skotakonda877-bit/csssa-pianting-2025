@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>CSSSA Painting Intensive Program | Aug 4–8, 2025</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #fafafa; color: #333; }
+    header { background: #111; color: #fff; padding: 20px; text-align: center; }
+    main { max-width: 800px; margin: 40px auto; padding: 0 20px; }
+    h1, h2 { color: #2d3e50; }
+    ul { margin-left: 20px; }
+    .section { margin-bottom: 40px; }
+    a { color: #0056b3; text-decoration: none; }
+    footer { background: #f0f0f0; text-align: center; padding: 20px; font-size: 0.9em; color: #555; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>CSSSA Painting Intensive Program</h1>
+    <p>August 4 – August 8, 2025 | CalArts Campus – Chouinard Hall</p>
+  </header>
+
+  <main>
+    <div class="section">
+      <h2>📅 Full Schedule</h2>
+      <ul>
+        <li><strong>Day 1 (Aug 4)</strong>: Orientation, Dorm Check-In, Campus Tour, Welcome Mixer</li>
+        <li><strong>Day 2–4 (Aug 5–7)</strong>:<br/>
+          - Morning: Studio Painting Workshops<br/>
+          - Midday: Figure Drawing & Group Critiques<br/>
+          - Afternoon: Guest Artist Seminars / Field Trips<br/>
+          - Evening: Open Studio Hours & Optional Workshops
+        </li>
+        <li><strong>Day 5 (Aug 8)</strong>: Final Presentations, Showcase, Closing Ceremony, Check-Out</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>🎒 Packing List</h2>
+      <ul>
+        <li>Clothing for 5 days (including casual and studio-friendly wear)</li>
+        <li>Twin XL bedding and toiletries</li>
+        <li>Closed-toe shoes for studio safety</li>
+        <li>Reusable water bottle and snacks</li>
+        <li>Sketchbook and any personal art supplies (optional)</li>
+        <li>Chargers, headphones, and personal items</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>🏠 Dorm Info: Chouinard Hall</h2>
+      <p>Students will be housed in <strong>Chouinard Hall</strong> at CalArts. Dorm rooms are double-occupancy, and gender-inclusive housing is available upon request. Trained CSSSA staff and Resident Assistants will be present 24/7 to supervise and support students.</p>
+      <p>All rooms include basic furniture, air conditioning, and Wi-Fi. Bathrooms are shared per floor. Students will receive dorm assignments upon arrival.</p>
+    </div>
+
+    <div class="section">
+      <h2>❓Program FAQs</h2>
+      <ul>
+        <li><strong>Is the program free?</strong> Yes! There is no tuition. Students only cover transportation and food costs.</li>
+        <li><strong>Are meals provided?</strong> Meals are not included, but the CalArts campus has dining options and grocery stores nearby.</li>
+        <li><strong>Who can attend?</strong> Students entering grades 9–12 in Fall 2025, or graduating in Spring 2025.</li>
+        <li><strong>Do I need to bring painting materials?</strong> All studio materials (including acrylic paints) will be provided, but you may bring your own sketchbook or tools.</li>
+        <li><strong>Can I contact staff if I have more questions?</strong> Yes, please email <a href="mailto:csssa.admissions@gmail.com">csssa.admissions@gmail.com</a>.</li>
+      </ul>
+    </div>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 California State Summer School for the Arts | This site is for informational purposes only.</p>
+  </footer>
+</body>
+</html>
